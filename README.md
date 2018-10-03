@@ -2,5 +2,5 @@ It stores filenames and links to associated IPFS files in local storage and gets
 
 To run:
 
-yarn install
-yarn start
+1) yarn install
+2) yarn start
