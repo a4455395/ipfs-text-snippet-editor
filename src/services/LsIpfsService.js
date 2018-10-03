@@ -7,7 +7,6 @@ class LsIpfsService {
     lsName = 'ipfs-editor';
 
     constructor() {
-        this.ls = window.localStorage;
         this.ipfs = IpfsApi('ipfs.infura.io', '5001', {protocol: 'https'})
     }
 
